@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://com.nellyrosaline.tensesapp" version="1.2" viewmodes="maximized">
+	<tizen:application required_version="2.2"/>
+	<author href="http://www.nellyrosaline.com" email="nellyrosaline28@gmail.com">Nelly Rosaline</author>
+	<content src="index.html" />
+	<description>Pembelajaran 16 Tenses</description>
+	<icon src="icon-128.png" width="128" height="128" />
+	<name>Tenses App</name>
+	<tizen:setting context-menu="disable" hwkey-event="enable" background-support="disable" encryption="disable" install-location="auto" screen-orientation="portrait" />
+	<feature name="http://tizen.org/feature/screen.size.all"/>
+</widget>
